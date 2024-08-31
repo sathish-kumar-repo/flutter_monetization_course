@@ -1,0 +1,1 @@
+enum AppStatus { ready, waiting }

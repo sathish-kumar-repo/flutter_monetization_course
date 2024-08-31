@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502026892163",
+    "project_id": "fluttermonetizationcourse",
+    "storage_bucket": "fluttermonetizationcourse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502026892163:android:41b96931ddfbacd1b3fcb6",
+        "android_client_info": {
+          "package_name": "com.appskyloom.flutter_monetization_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdDYqbTC4fenZUjgBDAGarVxuxksqT_8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
